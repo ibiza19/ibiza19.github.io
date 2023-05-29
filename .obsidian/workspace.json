@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/操作系统一些迷思.md",
+                "file": "source/_posts/work/这是一个测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "946cea93649fbb50",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -106,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/操作系统一些迷思.md",
+                "file": "source/_posts/work/这是一个测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/操作系统一些迷思.md",
+                "file": "source/_posts/work/这是一个测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/操作系统一些迷思.md"
+                "file": "source/_posts/work/这是一个测试.md"
               }
             }
           },
@@ -173,15 +181,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "0df7e527c4e0d9b2",
   "lastOpenFiles": [
+    "source/_posts/work/test.md",
+    "source/_posts/work/这是一个测试.md",
+    "source/_posts/操作系统一些迷思.md",
     "source/_posts/hello-world.md",
+    "public/2023/05/f02fc2412281.html",
+    "public/2023/05/5b910608bc89.html",
     "source/_posts/test1.md",
     "source/_obsidian/Post Template.md",
-    "source/_posts/操作系统一些迷思.md",
     "source/_obsidian"
   ]
 }
