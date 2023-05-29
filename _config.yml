@@ -102,7 +102,9 @@ theme: archer
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:ibiza19/ibiza19.github.io.git
+  branch: release
 
 jsonContent:
   meta: true
