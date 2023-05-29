@@ -21,19 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/hello-world.md",
+                "file": "source/_obsidian/Post Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0df7e527c4e0d9b2",
+            "id": "2c8492f336972482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/work/这是一个测试.md",
+                "file": "source/_posts/这是一条测试笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/work/这是一个测试.md",
+                "file": "source/_posts/这是一条测试笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/work/这是一个测试.md",
+                "file": "source/_posts/这是一条测试笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/work/这是一个测试.md"
+                "file": "source/_posts/这是一条测试笔记.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,16 +186,34 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0df7e527c4e0d9b2",
+  "active": "2c8492f336972482",
   "lastOpenFiles": [
+    "source/_obsidian/Post Template.md",
+    "source/_posts/这是一条测试笔记.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/work/llla.md",
+    "source/_posts/操作系统一些迷思.md",
+    "db.json",
+    "public/archives/2023/index.html",
+    "public/index.html",
+    "public/lib/webfontloader.min.js",
+    "public/lib/jquery.min.js",
+    "public/lib",
+    "public/intro/post-bg.jpg",
+    "public/intro/index-bg.jpg",
+    "public/intro/about-bg.jpg",
+    "public/intro/404-bg.jpg",
+    "public/intro",
+    "public/scripts/share.js.map",
+    "public/scripts/share.js",
+    "public/scripts/search.js.map",
+    "public/avatar/Misaka.jpg",
+    "public/assets/loading.svg",
+    "public/assets/example_qr.png",
+    "public/assets/beian.png",
+    "public/assets/algolia_logo.svg",
     "source/_posts/work/test.md",
     "source/_posts/work/这是一个测试.md",
-    "source/_posts/操作系统一些迷思.md",
-    "source/_posts/hello-world.md",
-    "public/2023/05/f02fc2412281.html",
-    "public/2023/05/5b910608bc89.html",
-    "source/_posts/test1.md",
-    "source/_obsidian/Post Template.md",
-    "source/_obsidian"
+    "source/_posts/test1.md"
   ]
 }
