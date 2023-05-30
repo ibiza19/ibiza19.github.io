@@ -1,16 +1,16 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/IMG_0051.jpg
 # author name
-author: fi3ework
+author: ibiza19
 # signature
-signature: witness me
+signature: freedom depends on being courageous
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: ibiza.jiang@outlook.com
+  github: //github.com/ibiza19
   # wechat should be a path of qr-code image path
-  wechat: /assets/example_qr.png
+  wechat: /assets/no_WeChat_qr.png
   # qq should be a path of qr-code image path
   qq: 
   telegram: 
@@ -34,13 +34,13 @@ friends:
   # friendA: //www.baidu.com
   # friendB: //www.google.com
 about:
-  enable: true
+  enable: false
   image: '/intro/about-bg.jpg'
 # Search for website
 search:
   enable: false
   # Seach URL, must be set. For example: 'fi3ework.github.io'
-  url: 
+  url:  
   # Search engine: 'bing' (default), 'google' or 'baidu'
   engine: bing
 # Display icons of friends, about and search
@@ -62,16 +62,16 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: ibiza19's Studio
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: ibiza19's Studio.
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 限りなく透明に近いブルー
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -87,7 +87,7 @@ read_more_button: false
 # Enable toc
 toc: true
 # Word count & Reading time
-reading_info: false
+reading_info: true
 # Intro height (the default is 50 percents of the screen, you can input other number)
 index_intro_height: 50
 post_intro_height: 50
@@ -171,7 +171,7 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # Favicon
-favicon: /assets/favicon.ico
+favicon: /assets/IMG_0051.ico
 # Post copyright
 copyright:
   enable: true
