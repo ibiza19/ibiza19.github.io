@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "3ddf9d1a0944fed8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f50ddd63a74b3d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b35a9b1ca0db3d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87d768abbb0e57d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c625b3a62c04120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b9a66da3097163",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "735f069d2e1a4fe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29969f220b51e421",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44d4ea9cea25b57c",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c94e78f159ec51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c512601a615d32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bac3dc548d01fb57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5227b7c1043aee8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8dc1d7ff36db65a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8b35a9b1ca0db3d5",
+  "lastOpenFiles": [
+    "db.json",
+    "public/index.html",
+    "public/CNAME",
+    "public/lib/webfontloader.min.js",
+    "public/lib/jquery.min.js",
+    "public/lib",
+    "public/intro/post-bg.jpg",
+    "public/intro/index-bg.jpg",
+    "public/intro/about-bg.jpg",
+    "public/intro/404-bg.jpg",
+    "public/intro",
+    "public/scripts/share.js.map",
+    "public/scripts/share.js",
+    "public/scripts/search.js.map",
+    "public/scripts/search.js.LICENSE.txt",
+    "public/avatar/Misaka.jpg",
+    "public/avatar/IMG_0051.jpg",
+    "public/assets/no_WeChat_qr.png",
+    "public/assets/loading.svg",
+    "public/assets/example_qr.png",
+    "public/assets/beian.png"
+  ]
+}
