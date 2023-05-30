@@ -26,6 +26,11 @@ jobs:
           echo "Node version is `node -v`"
           echo "Yarn version is `yarn -v`"
 
+      - name: Get algolia objects
+        run: npm run algolia
+        env: # 设置 algolia 环境变量
+          HEXO_ALGOLIA_INDEXING_KEY: ${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}
+
       - name: Build & Deploy
         run: |
           git config --global user.name "GitHub Action"

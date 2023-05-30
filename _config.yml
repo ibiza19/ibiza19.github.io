@@ -128,3 +128,8 @@ jsonContent:
 auto_category:
  enable: true
  depth:
+
+algolia:
+  applicationID: '0JTW5PVAF7'
+  apiKey: '3cdba2c41d8e39c5f637637c6625b5ee'
+  indexName: 'blog'
