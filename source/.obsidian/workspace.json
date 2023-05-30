@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_obsidian/Post Template.md",
+                "file": "_posts/操作系统/操作系统研究对象.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/操作系统/操作系统研究对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/操作系统/操作系统研究对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/操作系统/操作系统研究对象.md"
+              }
             }
           },
           {
@@ -161,22 +165,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "859ad4453d32b3cf",
+  "active": "58fb335ad3acfe3c",
   "lastOpenFiles": [
-    "source/_posts/操作系统/操作系统研究对象.md",
-    "source/_posts/操作系统/未命名.md",
-    "source/_posts/iOS开发/iOS开发第一次.md",
-    "source/_posts/iOS开发/未命名.md",
-    "source/_posts/操作系统",
-    "source/_posts/未命名",
-    "source/_posts/iOS开发",
-    "source/未命名",
+    "_posts/iOS开发/iOS开发第一次.md",
+    "_posts/操作系统/操作系统研究对象.md",
+    "_posts/这是一条测试笔记.md",
+    "_posts/操作系统",
+    "_posts/iOS开发",
+    "未命名",
     "node_modules/hexo-deployer-heroku/node_modules/fsevents/build/Release/fse.node",
     "node_modules/hexo-generator-sitemap/node_modules/fsevents/build/Release/fse.node",
     "node_modules/hexo-deployer-heroku/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/hexo-generator-sitemap/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/hexo-generator-sitemap/node_modules/fsevents/build/binding.Makefile",
     "node_modules/hexo-deployer-heroku/node_modules/fsevents/build/binding.Makefile",
+    "node_modules/hexo-deployer-heroku/node_modules/fsevents/build/fse.target.mk",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "node_modules/moment/README.md",
     "node_modules/moment/CHANGELOG.md",
@@ -207,6 +210,7 @@
     "node_modules/nan/doc/node_misc.md",
     "node_modules/nan/doc/new.md",
     "node_modules/nan/doc/methods.md",
+    "node_modules/nan/doc/maybe_types.md",
     "node_modules/nib/iconic/iconic_stroke.svg",
     "node_modules/hexo-renderer-marked/node_modules/highlight.js/styles/school-book.png"
   ]

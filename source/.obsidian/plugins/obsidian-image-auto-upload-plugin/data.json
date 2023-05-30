@@ -1,0 +1,115 @@
+{
+  "uploadByClipSwitch": true,
+  "uploader": "PicGo",
+  "uploadServer": "http://127.0.0.1:36677/upload",
+  "deleteServer": "http://127.0.0.1:36677/delete",
+  "imageSizeSuffix": "",
+  "picgoCorePath": "",
+  "workOnNetWork": true,
+  "fixPath": false,
+  "applyImage": true,
+  "newWorkBlackDomains": "",
+  "deleteSource": false,
+  "uploadedImages": [
+    {
+      "fileName": "202305301434571.webp",
+      "width": 402,
+      "height": 400,
+      "extname": ".webp",
+      "imgUrl": "https://s2.loli.net/2023/05/30/ert1qm3JDX6BSo7.webp",
+      "hash": "hZ5EQlOoqGptVRU89LbFi6WTS3",
+      "type": "smms",
+      "config": {
+        "token": "BhmWHT4fx82qnNN2wqBluQfnc3zwCCU6",
+        "backupDomain": "smms.app",
+        "_configName": "Default",
+        "_id": "dc9fb3af-95fb-4df0-abc3-bedf5a7aaba2",
+        "_createdAt": 1685428442022,
+        "_updatedAt": 1685428442022
+      },
+      "id": "c7297491-c42a-4461-8f35-6695f093ce02",
+      "createdAt": 1685428488297,
+      "updatedAt": 1685428488297
+    },
+    {
+      "fileName": "202305301435103.webp",
+      "width": 1654,
+      "height": 1045,
+      "extname": ".webp",
+      "imgUrl": "https://s2.loli.net/2023/05/30/u8oNLUTGxegEVSP.webp",
+      "hash": "BZhMcIyt6iWN8HsYS1jCaKEo7r",
+      "type": "smms",
+      "config": {
+        "token": "BhmWHT4fx82qnNN2wqBluQfnc3zwCCU6",
+        "backupDomain": "smms.app",
+        "_configName": "Default",
+        "_id": "dc9fb3af-95fb-4df0-abc3-bedf5a7aaba2",
+        "_createdAt": 1685428442022,
+        "_updatedAt": 1685428442022
+      },
+      "id": "c791cf12-b56e-49bd-b4bc-f65ac9226c0b",
+      "createdAt": 1685428507342,
+      "updatedAt": 1685428507342
+    },
+    {
+      "fileName": "202305301528156.webp",
+      "width": 360,
+      "height": 266,
+      "extname": ".webp",
+      "imgUrl": "https://s2.loli.net/2023/05/30/F6i7uAmEahCkYbz.webp",
+      "hash": "UQ6ifuMdGhpeSOA4KvTEk2BzJL",
+      "type": "smms",
+      "config": {
+        "token": "BhmWHT4fx82qnNN2wqBluQfnc3zwCCU6",
+        "backupDomain": "smms.app",
+        "_configName": "Default",
+        "_id": "dc9fb3af-95fb-4df0-abc3-bedf5a7aaba2",
+        "_createdAt": 1685428442022,
+        "_updatedAt": 1685428442022
+      },
+      "id": "f6c3d115-357e-453e-ac2d-1382c98bb242",
+      "createdAt": 1685431733460,
+      "updatedAt": 1685431733460
+    },
+    {
+      "fileName": "202305301531280.webp",
+      "width": 158,
+      "height": 242,
+      "extname": ".webp",
+      "imgUrl": "https://s2.loli.net/2023/05/30/WAemzEGYKNjaIb1.webp",
+      "hash": "64F17DCxvNETWuJ8roI3R5kb9c",
+      "type": "smms",
+      "config": {
+        "token": "BhmWHT4fx82qnNN2wqBluQfnc3zwCCU6",
+        "backupDomain": "smms.app",
+        "_configName": "Default",
+        "_id": "dc9fb3af-95fb-4df0-abc3-bedf5a7aaba2",
+        "_createdAt": 1685428442022,
+        "_updatedAt": 1685428442022
+      },
+      "id": "c7605192-5c9d-4f52-803a-9e9a0d4195aa",
+      "createdAt": 1685431883993,
+      "updatedAt": 1685431883993
+    },
+    {
+      "fileName": "202305301533672.webp",
+      "width": 1186,
+      "height": 510,
+      "extname": ".webp",
+      "imgUrl": "https://s2.loli.net/2023/05/30/KF3qXe6W4Yj7mxt.webp",
+      "hash": "FPz3W7DYHIcmNrukVdCQtjZBsJ",
+      "type": "smms",
+      "config": {
+        "token": "BhmWHT4fx82qnNN2wqBluQfnc3zwCCU6",
+        "backupDomain": "smms.app",
+        "_configName": "Default",
+        "_id": "dc9fb3af-95fb-4df0-abc3-bedf5a7aaba2",
+        "_createdAt": 1685428442022,
+        "_updatedAt": 1685428442022
+      },
+      "id": "68bd4fb3-c50e-4de3-bc6f-ea7f81445a63",
+      "createdAt": 1685432023608,
+      "updatedAt": 1685432023608
+    }
+  ]
+}
