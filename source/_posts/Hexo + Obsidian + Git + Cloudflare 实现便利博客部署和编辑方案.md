@@ -7,7 +7,9 @@ abstract: 快速利用github pages搭建博客的一套完整解决方案
 # 使用Hexo搭建博客
 参考这篇大佬写的文章：[Hexo 快速搭建指南](https://blog.esunr.xyz/2022/06/64163235c30f.html)
 注意我们是使用github搭建博客，所以直接跳过那篇文章的第二部分
-主题不用担心，后面改的话是很方便的
+主题不用担心，后面改的话是很方便的（主题换的时候注意一定不要从github上面拉，因为生成的.git文件会跟hexo根目录下的冲突，导致主题commit不上去）
+![image.png](https://s2.loli.net/2023/05/31/Q4lLNr3Gb9uE8ph.webp)
+
 Github Action 工作流真的巨赞
 # 使用Obsidian管理博客
 大体上依旧参考那位大佬的文章：[Hexo + Obsidian + Git 完美的博客部署与编辑方案](https://blog.esunr.xyz/2022/07/e9b42b453d9f.html)
