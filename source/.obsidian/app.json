@@ -9,5 +9,6 @@
     "downscalePercent": 100
   },
   "userIgnoreFilters": null,
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": false
 }

@@ -158,8 +158,10 @@
   },
   "active": "af4a5273384b6675",
   "lastOpenFiles": [
-    "_posts/iOS开发/hit this.md",
+    "_posts/Untitled.md",
     "_posts/Hexo + Obsidian + Git + Cloudflare 实现便利博客部署和编辑方案.md",
+    "_posts/set.md",
+    "_posts/iOS开发/hit this.md",
     "_posts/iOS开发/iOS开发第一次.md",
     "_obsidian/Post Template.md",
     "_posts/操作系统/操作系统研究对象.md",
@@ -200,8 +202,6 @@
     "node_modules/nan/doc/string_bytes.md",
     "node_modules/nan/doc/scopes.md",
     "node_modules/nan/doc/persistent.md",
-    "node_modules/nan/doc/object_wrappers.md",
-    "node_modules/nan/doc/node_misc.md",
     "node_modules/nib/iconic/iconic_stroke.svg",
     "node_modules/hexo-renderer-marked/node_modules/highlight.js/styles/school-book.png"
   ]
