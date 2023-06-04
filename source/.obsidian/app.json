@@ -10,5 +10,5 @@
   },
   "userIgnoreFilters": null,
   "promptDelete": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": true
 }

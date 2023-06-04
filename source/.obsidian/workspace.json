@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Hexo + Obsidian + Git + Cloudflare 实现便利博客部署和编辑方案.md",
+                "file": "_posts/计算机网络/C语言最基本的套接字编程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Hexo + Obsidian + Git + Cloudflare 实现便利博客部署和编辑方案.md",
+                "file": "_posts/计算机网络/C语言最基本的套接字编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Hexo + Obsidian + Git + Cloudflare 实现便利博客部署和编辑方案.md",
+                "file": "_posts/计算机网络/C语言最基本的套接字编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Hexo + Obsidian + Git + Cloudflare 实现便利博客部署和编辑方案.md"
+                "file": "_posts/计算机网络/C语言最基本的套接字编程.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +157,17 @@
   },
   "active": "af4a5273384b6675",
   "lastOpenFiles": [
-    "_posts/Untitled.md",
+    "_posts/计算机网络/自顶向下复习计网.md",
+    "_posts/计算机网络/C语言最基本的套接字编程.md",
+    "_obsidian/Updated Template.md",
+    "_obsidian/Post Template.md",
     "_posts/Hexo + Obsidian + Git + Cloudflare 实现便利博客部署和编辑方案.md",
+    "_posts/计算机网络",
+    "_posts/未命名.md",
+    "_posts/Untitled.md",
     "_posts/set.md",
     "_posts/iOS开发/hit this.md",
     "_posts/iOS开发/iOS开发第一次.md",
-    "_obsidian/Post Template.md",
     "_posts/操作系统/操作系统研究对象.md",
     "_posts/这是一条测试笔记.md",
     "_posts/操作系统",
@@ -175,7 +179,6 @@
     "node_modules/hexo-generator-sitemap/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/hexo-generator-sitemap/node_modules/fsevents/build/binding.Makefile",
     "node_modules/hexo-deployer-heroku/node_modules/fsevents/build/binding.Makefile",
-    "node_modules/hexo-deployer-heroku/node_modules/fsevents/build/fse.target.mk",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "node_modules/moment/README.md",
     "node_modules/moment/CHANGELOG.md",
@@ -198,10 +201,6 @@
     "node_modules/js-yaml/CHANGELOG.md",
     "node_modules/nan/doc/v8_misc.md",
     "node_modules/nan/doc/v8_internals.md",
-    "node_modules/nan/doc/script.md",
-    "node_modules/nan/doc/string_bytes.md",
-    "node_modules/nan/doc/scopes.md",
-    "node_modules/nan/doc/persistent.md",
     "node_modules/nib/iconic/iconic_stroke.svg",
     "node_modules/hexo-renderer-marked/node_modules/highlight.js/styles/school-book.png"
   ]
